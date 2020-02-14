@@ -1,0 +1,3 @@
+cjl-global-auth-fr
+cjl-global-img-fr
+cjl-global-myna-fr

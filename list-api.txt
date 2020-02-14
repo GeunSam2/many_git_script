@@ -1,0 +1,10 @@
+cjl-global-api-cm-auth
+cjl-global-api-cm-bo
+cjl-global-api-cm-file
+cjl-global-api-myna-bo
+cjl-global-daemon-cm-bat
+cjl-global-daemon-cm-email
+cjl-global-daemon-cm-noti
+cjl-global-sockjs-bo
+cjl-global-addon
+cjl-global-daemon-myna-dbsync
